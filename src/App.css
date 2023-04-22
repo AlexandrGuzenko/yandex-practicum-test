@@ -1,0 +1,17 @@
+body {
+  background: rgb(240, 240, 240);
+}
+
+.root {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.row {
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
